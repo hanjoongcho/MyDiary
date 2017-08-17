@@ -168,7 +168,7 @@
      <string name="password_remove_pwd_msg">원래의 비밀번호가 일치하지 않습니다</string>
 
     <!--Back event-->
-    <string name="main_activity_exit_app">Click back button again to close</string>
+    <string name="main_activity_exit_app">뒤로가기 버튼을 한번 더 누르면 종료됩니다</string>
 
     <!--Backup overwrite string-->
     <string name="nnf_select_something_first">Please select something first</string>
@@ -196,13 +196,13 @@
     <string name="toast_import_fail">import fail&#8230;please checking file</string>
 
     <!--OOBE-->
-    <string name="oobe_next_button">Next</string>
+    <string name="oobe_next_button">다음</string>
 
-    <string name="oobe_main_your_name_title">Your name</string>
-    <string name="oobe_main_your_name_content">You can set your personal information.</string>
-    <string name="oobe_main_topic_list_title">Topic list</string>
+    <string name="oobe_main_your_name_title">당신의 이름</string>
+    <string name="oobe_main_your_name_content">당신의 기본정보를 설정할 수 있습니다.</string>
+    <string name="oobe_main_topic_list_title">주제 목록</string>
     <string name="oobe_main_topic_list_content">Your personal diary, memo or contacts!\nSwipe it to edit or delete.\n(The default Japanese data is from movie, you can delete it)</string>
-    <string name="oobe_main_search_title">Search</string>
+    <string name="oobe_main_search_title">제목검색</string>
     <string name="oobe_main_search_content">You can search some topic.</string>
     <string name="oobe_main_adv_setting_title">Advanced setting.</string>
     <string name="oobe_main_adv_setting_content">Open the advanced setting.\nIncluding create topic, app setting, passcode ,backup and about.</string>
